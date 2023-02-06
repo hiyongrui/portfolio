@@ -15,7 +15,7 @@ const Hero = () => {
           </h1>
 
           <p className='py-5'>I am learning <span className='text-accent'>reactJS</span></p>
-          <button onClick={() => window.open("https://github.com/hiyongrui/portfolio", "_blank", rel="noreferrer")}
+          <button onClick={() => window.open("https://github.com/hiyongrui/portfolio", "_blank")}
           className='btn bg-accent border-2 border-[#7477FF] text-white px-6 py-3 hover:bg-transparent'>see projects</button>
         </div>
 
