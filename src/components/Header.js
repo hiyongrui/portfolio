@@ -12,8 +12,8 @@ const Header = () => {
 
             <nav className="hidden md:block">
                 <ul className="flex">
-                    <li><a href="/#">About</a></li>
-                    <li><a href="/#projects">Projects</a></li>
+                    <li><a href="https://github.com/hiyongrui">Projects</a></li>
+                    <li><a href="https://drive.google.com/file/d/1M-EXUjBLJaFLHE7KN40MXXnBtsfTOZkP/view?usp=share_link">Testimonials</a></li>
                 </ul>
             </nav>
 

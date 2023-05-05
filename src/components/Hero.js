@@ -15,8 +15,13 @@ const Hero = () => {
           </h1>
 
           <p className='py-5'>I am learning <span className='text-accent'>reactJS</span></p>
-          <button onClick={() => window.open("https://github.com/hiyongrui/portfolio", "_blank")}
-          className='btn bg-accent border-2 border-[#7477FF] text-white px-6 py-3 hover:bg-transparent'>see projects</button>
+          <button onClick={() => window.open("https://github.com/hiyongrui", "_blank")}
+          className='btn bg-accent border-2 border-[#7477FF] text-white px-6 py-3 hover:bg-transparent'>github</button>
+
+          
+          <button onClick={() => window.open("https://drive.google.com/file/d/1M-EXUjBLJaFLHE7KN40MXXnBtsfTOZkP/view?usp=share_link", "_blank")} style={{marginLeft: "10px"}}
+            className='btn bg-accent border-2 border-[#7477FF] text-white px-6 py-3 hover:bg-transparent'>
+              testimonials</button>
         </div>
 
         <div className='hero-img'>

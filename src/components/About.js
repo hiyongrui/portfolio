@@ -23,7 +23,7 @@ const About = () => {
           </p>
   
           <p className="py-2">
-            <span className="font-bold">Phone:</span> +65 1234 5678
+            <span className="font-bold">Email:</span> yongrui.tan.2022@scis.smu.edu.sg
           </p>
 
           {/* <p className="py-2"> */}
